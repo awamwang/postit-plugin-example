@@ -1,0 +1,8 @@
+{
+  "name": "postit-plugin-example",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Awam Wang",
+  "license": "MIT",
+  "dependencies": {}
+}
